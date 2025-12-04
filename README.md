@@ -71,21 +71,7 @@ Reconstructed surface pressure fields using **PINNs**.
 
 # 🤖 AI, NLP & Computer Vision Projects  
 
----
 
-## 📝 Dialogue Summarization Competition  
-Built an abstractive summarization model for conversational Korean.  
-Used **multi-reference evaluation (3 summaries/dialogue)** and **morphological tokenization** for ROUGE scoring.
-
----
-
-## 📄 Document Classification (17 Classes)  
-Trained Swin-L, ConvNeXt-V2, EfficientNet-V2-L with strong augmentations, EMA, temperature scaling, and ensemble inference.
-
----
-
-## ☁️ Weather Forecasting MLOps  
-Airflow → AWS S3 → RDS pipeline, Docker-based dev/prod environment, GitHub Actions CI/CD, FastAPI serving system.
 
 ---
 
@@ -96,16 +82,35 @@ Achieved **lowest RMSE** among all participants.
 
 ---
 
+## ☁️ Weather Forecasting MLOps  
+Airflow → AWS S3 → RDS pipeline, Docker-based dev/prod environment, GitHub Actions CI/CD, FastAPI serving system.
+
+---
+
+## 📄 Document Classification (17 Classes) - 4th place
+Trained Swin-L, ConvNeXt-V2, EfficientNet-V2-L with strong augmentations, EMA, temperature scaling, and ensemble inference.
+
+---
+
+## 📝 Dialogue Summarization Competition  
+Built an abstractive summarization model for conversational Korean.  
+Used **multi-reference evaluation (3 summaries/dialogue)** and **morphological tokenization** for ROUGE scoring.
+
+---
+
+
 # 🧠 Interests  
-- Scientific ML (PINNs, PDE-based modeling)  
+- Computer Vision
+- Scientific ML (PINNs, PDE-based modeling) 
 - Sensor fusion & motion analysis  
 - Hydrodynamics + AI modeling  
-- Reproducible ML pipelines (MLOps)  
+- Reproducible ML pipelines (MLOps)
+- Large Language Model
 
 ---
 
 ## 📬 Contact  
-- Email: your_email@example.com  
+- Email: goldeggduck@gmail.com  
 - Portfolio: YOUR_LINK  
 - LinkedIn: YOUR_LINK  
 
