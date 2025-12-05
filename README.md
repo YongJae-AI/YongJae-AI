@@ -97,8 +97,7 @@ Used **multi-reference evaluation (3 summaries/dialogue)** and **morphological t
 
 # 🧠 Interests  
 - Computer Vision
-- Scientific ML (PINNs, PDE-based modeling) 
-- Sensor fusion & motion analysis  
+- Scientific ML (PINNs, PDE-based modeling)   
 - Hydrodynamics + AI modeling  
 - Reproducible ML pipelines (MLOps)
 - Large Language Model
