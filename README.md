@@ -1,7 +1,3 @@
-<!-- Profile View Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen" />
-</p>
 
 <h1 align="center">Hi, I'm Yongjae 👋  
 AI Engineer | Deep Learning | Computer Vision | Scientific ML</h1>
