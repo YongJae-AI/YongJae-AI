@@ -1,21 +1,28 @@
 
 <h1 align="center">Hi, I'm Yongjae 👋  
-AI Engineer | Deep Learning | Computer Vision | Scientific ML</h1>
+AI Engineer | Computer Vision | Scientific ML</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/MLOps-Docker%20%7C%20Airflow%20%7C%20AWS-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Research-PINN%20%7C%20Hydrodynamics-green?style=flat-square">
+</p>
 
 ---
 
 ## 🔬 About Me  
-I am an AI Engineer specializing in **deep learning, computer vision, MLOps, and scientific machine learning**.  
-With a background in **Naval Architecture & Ocean Engineering**, I have hands-on experience conducting experimental hydrodynamics using **3D depth cameras, motion capture systems, and high-speed CCD cameras** for measurement and image processing.  
-I focus on designing physics-aware ML pipelines and applying models such as **Physics-Informed Neural Networks (PINNs)** to real-world sensor-driven data.
+AI Engineer with strong experience in **deep learning, computer vision, hydrodynamics experiments**,  
+and **physics-informed modeling (PINNs)**.  
+Worked extensively with **3D depth cameras, motion capture systems, and high-speed CCD cameras**  
+for experimental measurement and image processing.
 
 ---
 
 ## 🎓 Education  
 
-| Institution | Degree / Program | Date | Status |
-|------------|------------------|-------|--------|
-| **Pusan National University** | Master’s Degree in Naval Architecture & Ocean Engineering | Feb 2025 | **Graduated** |
+| Institution | Program | Date | Status |
+|------------|---------|-------|--------|
+| **Pusan National University** | Master's Degree in Naval Architecture & Ocean Engineering | Feb 2025 | **Graduated** |
 | **UPSTAGE AI Bootcamp** | AI Engineering Program | Jul 2025 – Present | **Ongoing** |
 
 ---
@@ -24,89 +31,44 @@ I focus on designing physics-aware ML pipelines and applying models such as **Ph
 
 ---
 
-## 📌 Samsung Heavy Industries [1st Project]  
-### **Free-Decay Test of a 2D Cylinder for Roll Damping Coefficient & Natural Period Estimation**  
-**Duration:** Mar 2023 – Sep 2023  
+## 📌 Samsung Heavy Industries — 1st Project  
+**Free-Decay Test of a 2D Cylinder**  
+Roll damping coefficient & natural period estimation using motion capture and CCD sensors.
 
-A free-decay experiment conducted to estimate the **roll damping coefficient** and **natural roll period** of a **2D cylinder** under various water-depth and loading conditions.
-
-### Experimental Highlights  
-- **Water Depth:** Six masked conditions  
-- **Loading Conditions:** LC01 (Ballast), LC02 (Full Load)  
-- **Radius of Gyration (kₓₓ):** 0.35B, 0.375B, 0.40B, 0.425B, 0.45B, 0.46B  
-- **Free-Decay Test:** Roll decay curve analysis & damping estimation  
-
-### Tools  
-- OptiTrack Motion Capture  
-- Intel RealSense L515 / D435  
-- MATLAB filtering, spectral analysis, hydrodynamic parameter estimation  
+## 📌 Samsung Heavy Industries — 2nd Project  
+**3-DoF Barge Motion + PIV-based Wave Kinematics Measurement**  
+Used PIV to capture vortex growth, flow-field behavior, and hydrodynamic responses.
 
 ---
 
-## 📌 Samsung Heavy Industries [2nd Project]  
-### **3-DoF Barge Motion + PIV-Based Wave Kinematics & Flow-Field Measurement**  
-**Duration:** Mar 2024 – Dec 2024  
-
-Measured **Sway / Heave / Roll** motion of a barge under regular waves.  
-Performed **PIV-based wave kinematics measurement**, compared results with analytical theory,  
-and visualized **vortex growth and flow-field distribution** around the hull.  
-Reconstructed surface pressure fields using **PINNs**.
-
-### Experimental Conditions  
-- **Radius of Gyration:** 0.35B, 0.40B, 0.46B  
-- **Water Depth:** Six masked categories  
-- **Wave Period:** Seven regular-wave conditions  
-
-### Contributions  
-- PIV-based wave-kinematics measurement & theoretical comparison  
-- Flow-field & vortex growth visualization  
-- High-precision OptiTrack motion capture  
-- PINN architecture combining PDE constraints + experimental data  
+# 🤖 AI, NLP, & Computer Vision Projects (Summary)
 
 ---
 
-# 🤖 AI, NLP & Computer Vision Projects  
+## 🏆 House Price Prediction — *1st Place*  
+Built LightGBM model using geospatial + temporal features.  
+Achieved the **lowest RMSE** among all participants.
 
-
-
----
-
-## 🏆 House Price Prediction — 1st Place  
-Predicting Seoul apartment transaction prices using LightGBM.  
-Integrated GIS features (distance to subway/bus), temporal variables, and categorical encodings.  
-Achieved **lowest RMSE** among all participants.
-
----
-
-## ☁️ Weather Forecasting MLOps  
-Airflow → AWS S3 → RDS pipeline, Docker-based dev/prod environment, GitHub Actions CI/CD, FastAPI serving system.
-
----
-
-## 📄 Document Classification (17 Classes) - 4th place
-Trained Swin-L, ConvNeXt-V2, EfficientNet-V2-L with strong augmentations, EMA, temperature scaling, and ensemble inference.
-
----
+## 📄 Document Classification (17 Classes) — *4th Place*  
+Trained Swin-L, ConvNeXt-V2, EfficientNet-V2-L with strong augmentation & ensemble.
 
 ## 📝 Dialogue Summarization Competition  
-Built an abstractive summarization model for conversational Korean.  
-Used **multi-reference evaluation (3 summaries/dialogue)** and **morphological tokenization** for ROUGE scoring.
+Developed Korean abstractive summarization model using multi-reference evaluation.
 
 ---
 
-
 # 🧠 Interests  
-- Computer Vision
-- Scientific ML (PINNs, PDE-based modeling)   
-- Hydrodynamics + AI modeling  
-- Reproducible ML pipelines (MLOps)
-- Large Language Model
+- Computer Vision & Model Efficiency  
+- Scientific ML (PINNs, PDE-based modeling)  
+- Sensor fusion & hydrodynamics measurement  
+- Reproducible ML systems (MLOps)  
+- Large Language Models  
 
 ---
 
 ## 📬 Contact  
-- Email: goldeggduck@gmail.com  
-- Portfolio: YOUR_LINK  
-- LinkedIn: YOUR_LINK  
+📧 Email — **goldeggduck@gmail.com**  
+🔗 Portfolio — *YOUR_LINK*  
+💼 LinkedIn — *YOUR_LINK*  
 
 <p align="center">Made with ❤️ by Yongjae</p>
