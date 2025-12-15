@@ -41,7 +41,7 @@ Used PIV to capture vortex growth, flow-field behavior, and hydrodynamic respons
 
 ---
 
-# 🤖 AI, NLP, & Computer Vision Projects (Summary)
+# 🤖 Projects (Summary)
 
 ---
 
