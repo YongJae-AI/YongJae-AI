@@ -71,4 +71,4 @@ Developed Korean abstractive summarization model using multi-reference evaluatio
 🔗 Portfolio — *YOUR_LINK*  
 💼 LinkedIn — *YOUR_LINK*  
 
-<p align="center">Made with ❤️ by Yongjae</p>
+<p align="center">Made with by Yongjae</p>
