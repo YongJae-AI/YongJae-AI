@@ -41,7 +41,7 @@ Used PIV to capture vortex growth, flow-field behavior, and hydrodynamic respons
 
 ---
 
-# 🤖 Projects (Summary)
+# 🤖 Contests in BOOTCAMP (Summary)
 
 ---
 
