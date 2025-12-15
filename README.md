@@ -52,7 +52,7 @@ Achieved the **lowest RMSE** among all participants.
 ## 📄 Document Classification (17 Classes) — *4th Place*  
 Trained Swin-L, ConvNeXt-V2, EfficientNet-V2-L with strong augmentation & ensemble.
 
-## 📝 Dialogue Summarization Competition  
+## 📝 Dialogue Summarization Competition — *5th Place*    
 Developed Korean abstractive summarization model using multi-reference evaluation.
 
 ---
